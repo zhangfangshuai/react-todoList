@@ -1,0 +1,19 @@
+.todo-item {
+    width: 100%;
+    height: 45px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+    padding: 0 12px;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.todo-item+.todo-item {
+    border-top: solid 1px #ddd;
+}
+
+.todo-item input {
+    margin-right: 6px;
+}

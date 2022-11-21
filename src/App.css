@@ -1,0 +1,19 @@
+.app {
+    width: 600px;
+    height: 100%;
+    margin-top: 10vh;
+    margin-left: calc(50% - 300px);
+    background: #FFF;
+}
+
+button {
+    padding: 7px 12px;
+    background-color: #F56C6C;
+    color: #FFF;
+    border-radius: 4px;
+    border: 1px solid #F56C6C;
+}
+
+button:active {
+    opacity: .8;
+}
