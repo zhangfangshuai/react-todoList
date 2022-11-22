@@ -4,6 +4,9 @@
     margin-top: 10vh;
     margin-left: calc(50% - 300px);
     background: #FFF;
+    padding: 12px;
+    border: solid 1px #E4E7ED;
+    border-radius: 4px;
 }
 
 button {

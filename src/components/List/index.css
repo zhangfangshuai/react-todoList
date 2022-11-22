@@ -1,5 +1,7 @@
 .todo-list {
     width: 100%;
+    margin: 12px 0;
     padding-inline-start: 0;
     box-sizing: border-box;
+    border: solid 1px #E4E7ED;
 }
