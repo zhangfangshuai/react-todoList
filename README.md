@@ -10,7 +10,7 @@
 4. 勾选底部全选按钮，所有任务完成，反之全不选；
 5. 删除已完成任务，清除所有已完成任务。
    
-<img src="./static/image/../../../static/image/react/todolist.png">
+<img src="./public/assets/images/todolist.png.png">
 
 &emsp;
 ### 代码风格要求
